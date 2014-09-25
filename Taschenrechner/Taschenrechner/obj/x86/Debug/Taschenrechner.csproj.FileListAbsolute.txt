@@ -1,0 +1,4 @@
+C:\Users\wolf\Desktop\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.exe
+C:\Users\wolf\Desktop\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.pdb
+C:\Users\wolf\Desktop\Taschenrechner\Taschenrechner\obj\x86\Debug\Taschenrechner.exe
+C:\Users\wolf\Desktop\Taschenrechner\Taschenrechner\obj\x86\Debug\Taschenrechner.pdb
